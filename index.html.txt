@@ -1,3 +1,0 @@
-<title>This is aa merge Conflict</title>
-<h1>Hello World"</h1>
-<h2>Whaat</h2>
